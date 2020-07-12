@@ -1,30 +1,54 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Khoa Vo</title>
+		<title>Khoa Vo's Portfolio</title>
 		<!-- link to main stylesheet -->
-		<link rel="stylesheet" type="text/css" href="/css/main.css">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" type="text/css" href="style.css">
 	</head>
 	<body>
-		<nav>
-    		<ul>
-        		<li><a href="/">Home</a></li>
-	        	<li><a href="/about">About</a></li>
-        		<li><a href="/cv">CV</a></li>
-        		<li><a href="/blog">Blog</a></li>
-    		</ul>
-		</nav>
-		<div class="container">
-    		<div class="blurb">
-        		<h1>Hi there, I'm Khoa!</h1>
-				<p>I'm just an IT student in Finland.</p>
-    		</div><!-- /.blurb -->
-		</div><!-- /.container -->
-		<footer>
-    		<ul>
-        		<li><a href="mailto:vodangkhoa873@gmail.com">email</a></li>
-        		<li><a href="https://github.com/lackhoa">github.com/lackhoa</a></li>
-			</ul>
-		</footer>
-	</body>
+    <p id="name">Khoa Vo's Portfolio</p>
+		<div id="content">
+    	<section id="about">
+        <h1>About</h1>
+        <p>This place lists my most significant programming projects.</p>
+        <p>For more details, please visit my <a target="blank" href="https://github.com/lackhoa">GitHub</a>.</p>
+      </section>
+
+      <section>
+        <h1>Personal Projects</h1>
+        <h2>Syntax Diagram: website that analyzes the grammar of natural language</h2>
+        <ul>
+          <li><strong>Description</strong>: I wanted to see if AI can make text easier to read, the result wasn't bad</li>
+          <li><strong>Tech</strong>: ClojureScript, JavaScript, Node, React, GCP, Heroku, GitHub Action</li>
+          <li><strong>Links</strong>: <a target="blank" href="https://syntax-diagram.herokuapp.com/">website</a>, <a target="blank" href="https://github.com/lackhoa/syntax-diagram">code</a></li>
+        </ul>
+
+        <h2>Bachelor Thesis in Logic programming: "Relational Conditionals with Pseudo-functions"</h2>
+        <ul>
+          <li><strong>Description</strong>: A symbolic AI project, wherein I recycled an old idea and applied it to a different language.</li>
+          <li><strong>Tech</strong>: Scheme, miniKanren</li>
+          <li><strong>Link</strong>: <a target="blank" href="https://github.com/lackhoa/staticKanren">code & paper</a></li>
+        </ul>
+
+        <h2>Raspberry Pi project that converts visual cues to sound in real-time</h2>
+        <ul>
+          <li><strong>Description</strong>: This was a school project. There were 3 ideas to help the visually impaired: sonar, color detection and image recognition (using Google Cloud)</li>
+          <li><strong>Tech</strong>: Raspberry Pi, GCP, Toy electronics, Python</li>
+          <li><strong>Links</strong>: <a target="blank" href="https://github.com/lackhoa/pi-visual">code</a></li>
+        </ul>
+
+        <h2>Tic-tac-toe player and graphs</h2>
+        <ul>
+          <li><strong>Description</strong>: My idea was to brute-force all possible tic-tac-tie games and show it on a graph. There were code to check for symmetry. The end result looked beautiful and I'm still proud of it to this day.</li>
+          <li><strong>Tech</strong>: Graphviz, Python</li>
+          <li><strong>Links</strong>: <a target="blank" href="https://drive.google.com/file/d/0B87xosAJTDm1dGJQY01qZnB5UGc/view?usp=drive_open">presentation</a>, <a target="blank" href="https://github.com/lackhoa/ttt-graph/tree/master">code</a></li>
+        </ul>
+
+        <p><strong>Misc</strong>: Scheme interpreters, HTML Canvas graphics library, etc. and more on my GitHub</p>
+      </section>
+    </div>
+  </body>
 </html>
