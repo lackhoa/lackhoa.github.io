@@ -3,9 +3,7 @@ Khoa Vo's Portfolio
 About
 =====
 
-This place lists my most significant programming projects.
-
-[Github link](https://github.com/lackhoa).
+This place contains some of my projects and my blog posts.
 
 Personal Projects
 =================
