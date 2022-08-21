@@ -1,5 +1,3 @@
-Khoa Vo's Portfolio    
-
 Khoa Vo's Portfolio
 
 About
@@ -7,24 +5,10 @@ About
 
 This place lists my most significant programming projects.
 
-For more details, please visit my [GitHub](https://github.com/lackhoa).
+[Github link](https://github.com/lackhoa).
 
 Personal Projects
 =================
-
-Fractal Sky: Diagraming webapp to create fractals
--------------------------------------------------
-
-*   **Description**: An SVG diagraming app (like Google Draw), but with the ability to create nested copies of itself
-*   **Tech**: JavaScript, Node, Kubernetes, DigitalOcean
-*   **Links**: [Intro](https://www.youtube.com/watch?v=5b2uCFTOqfc) [website](https://fractalsky.xyz), [code](https://github.com/lackhoa/fractal-sky)
-
-Syntax Diagram: website that analyzes the grammar of natural language
----------------------------------------------------------------------
-
-*   **Description**: I wanted to see if AI can make text easier to read, the result wasn't bad
-*   **Tech**: ClojureScript, JavaScript, Node, React, GCP, Heroku, GitHub Action
-*   **Links**: [website](https://syntax-diagram.herokuapp.com/), [code](https://github.com/lackhoa/syntax-diagram)
 
 Bachelor Thesis in Logic programming: "Relational Conditionals with Pseudo-functions"
 -------------------------------------------------------------------------------------
