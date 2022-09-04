@@ -28,5 +28,3 @@ Tic-tac-toe player and graphs
 *   **Description**: My idea was to brute-force all possible tic-tac-tie games and show it on a graph. There were code to check for symmetry. The end result looked beautiful and I'm still proud of it to this day.
 *   **Tech**: Graphviz, Python
 *   **Links**: [presentation](https://drive.google.com/file/d/0B87xosAJTDm1dGJQY01qZnB5UGc/view?usp=drive_open), [code](https://github.com/lackhoa/ttt-graph/tree/master)
-
-**Misc**: Scheme interpreters, HTML Canvas graphics library, etc. and more on my GitHub
