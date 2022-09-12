@@ -1,5 +1,5 @@
 ---
-title: "Never, ever use '-O0' in clang"
+title: "Debug builds are slow, so let's make them even slower"
 ---
 
 {% raw %}
