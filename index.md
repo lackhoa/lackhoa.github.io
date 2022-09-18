@@ -8,6 +8,12 @@ This place contains some of my projects and my blog posts.
 Personal Projects
 =================
 
+Handmade Hero Game
+-------------------------------------------------------------------------------------
+
+Most of my time right now goes into following this series, details can be found
+[here](https://lackhoa.github.io/2022/08/21/handmade-hero-learning-summary.html)
+
 Bachelor Thesis in Logic programming: "Relational Conditionals with Pseudo-functions"
 -------------------------------------------------------------------------------------
 
