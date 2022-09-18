@@ -9,7 +9,7 @@ passion self-study project at first, but now getting more "serieous" as now I'm
 planning to switch into game programming for real. It occupied most of my free
 time besides my dayjob at Hatch Entertainment.
 
-# Why did I start doing this?
+## Why did I start doing this?
 
 The reason why I started was because I'm fascinated by what Casey is able to do
 on the show. With only one hour a night, he's able to accomplish more than what
@@ -27,25 +27,25 @@ The third reason was because I feel it's important to know how to make fast,
 reliable software in general. (UPDATE: There used to be a pointless rant here,
 but I've removed it for brevity).
 
-# Cool demos from the game
+## Cool demos from the game
 
 Unfortunately, I can't publicize any of the game code due to copyright reasons
 (which is *not cool* since I spent so much time writing them myself). However, I
 can show you some stuff we have in the game so far that I think is cool:
 
-## General description
+# General description
 
 The game is a top-down adventure game (like e.g the original Zelda game). I'm
 still unclear about what would be in the game, since right now I'm still working
 on the engine (which is 50% done now).
 
-## Infinitely large, procedurally-generated world
+# Infinitely large, procedurally-generated world
+
+[Video](https://drive.google.com/file/d/1RbuPJzrlCBVwvVeoFHcDH3Vuaa3IpR_p/view?usp=sharing)
 
 The world is where most of the work goes into. I've barely touched the
 procedural generation part, but the infrastructure to handle scale is already
 there.
-
-<iframe src="https://drive.google.com/file/d/1RbuPJzrlCBVwvVeoFHcDH3Vuaa3IpR_p/view?usp=sharing" frameborder="0" allowfullscreen></iframe>
 
 The scale of the world introduces precision problems if you only a single set of
 floating-point coordinates. To avoid this problem, we break the world into a
@@ -61,15 +61,15 @@ Only a small portion of the world will be simulated at any given time. That
 portion is currently the reason that viewable by the camera, however in the
 future we will have multiple threads to simulate neighboring parts of the world.
 
-## Going up/down stair
+# Going up/down stair
 
 We have a 3D coordinate system, going up/down stair is handled consistently (or
 at least *planned* to be). Perspective is also handled correctly too so we can
 interact with multiple floor levels at the same time.
 
-<iframe src="https://drive.google.com/file/d/1cR0P4lZxFHOUswBtDQuF5mpYLiurV_2v/view?usp=sharing" frameborder="0" allowfullscreen></iframe>
+[Video](https://drive.google.com/file/d/1cR0P4lZxFHOUswBtDQuF5mpYLiurV_2v/view?usp=sharing)
 
-## Software rendering with AVX2
+# Software rendering with AVX2
 
 The game is currently rendered entirely in software for education purpose (which
 is why it's only running at 960 x 540). Only doing the operations wide with AVX2
@@ -78,7 +78,7 @@ lighting but it's not optimized yet.
 
 Right now I'm working on parallelizing the renderer.
 
-# What did I learn?
+## What did I learn?
 
 The most important thing was how to actually learn effectively. I started out by
 thinking "Well I'll just copy what Casey does and by the end: Bam!  I'll have
