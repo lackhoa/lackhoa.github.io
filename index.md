@@ -11,8 +11,8 @@ Personal Projects
 Handmade Hero Game
 -------------------------------------------------------------------------------------
 
-Most of my time right now goes into following this series, details can be found
-[here](https://lackhoa.github.io/2022/08/21/handmade-hero-learning-summary.html)
+Originally I was gonna make the whole game, but sadly due to copyright reasons I had to stop. Anyway I've gained a lot of programming experience from it. More details can be found
+[here](https://lackhoa.github.io/2022/08/21/handmade-hero-learning-summary.html).
 
 Bachelor Thesis in Logic programming: "Relational Conditionals with Pseudo-functions"
 -------------------------------------------------------------------------------------
