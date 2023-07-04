@@ -8,10 +8,21 @@ This place contains some of my projects and my blog posts.
 Personal Projects
 =================
 
+Rea: A theorem prover written in C++
+------------------------------------
+
+How to describe this project?
+The closest I can think of is a compiler, with the most complicated type system possible.
+
+I've written a series of blogs to explain it here: https://lackhoa.github.io/2023/06/09/rea-1.html
+Code: https://github.com/lackhoa/rea-engine
+
 Handmade Hero Game
 -------------------------------------------------------------------------------------
 
-Originally I was gonna make the whole game, but sadly due to copyright reasons I had to stop. Anyway I've gained a lot of programming experience from it. More details can be found
+Originally I was gonna make the whole game, but sadly due to copyright reasons I had to stop.
+Anyway I had fun & gained a lot of programming experience from it.
+More details can be found
 [here](https://lackhoa.github.io/2022/08/21/handmade-hero-learning-summary.html).
 
 Bachelor Thesis in Logic programming: "Relational Conditionals with Pseudo-functions"
