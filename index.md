@@ -14,8 +14,8 @@ Rea: A theorem prover written in C++
 How to describe this project?
 The closest I can think of is a compiler, with the most complicated type system possible.
 
-I've written a series of blogs to explain it here: https://lackhoa.github.io/2023/06/09/rea-1.html
-Code: https://github.com/lackhoa/rea-engine
+I've written [a series of blogs to explain it](https://lackhoa.github.io/2023/06/09/rea-1.html) (not likely to be complete at any point)
+[Code](https://github.com/lackhoa/rea-engine)
 
 Handmade Hero Game
 -------------------------------------------------------------------------------------
