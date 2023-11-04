@@ -27,7 +27,7 @@ It was removed after a few minutes.
 I DMed the mods to ask for the reason and they haven't replied to me yet (even though they were so quick to censor my post).
 I don't know what kind of censorship is happening here, but I can't say I haven't seen it.
 
-This is the schmuck response from the dev that got me angry
+This is the schmuck response from the dev that made my blood boil
 
 ```
 > I contacted support and asked for help. They gave up immediately and told me to get a refund
