@@ -58,7 +58,9 @@ Update 3: Response from Blender Market, saying that I have to find another issue
 ---
 
 I see that you've worked with Artell directly and he's provided you some assistance in getting the addon working for your particular set-up.
+
 Please let him know what additional problems you are having, so he has the opportunity to help. If you still would like a refund, please inform Artell directly in DMs that you're seeking a refund.
+
 Please allow them at least 72 hours to respond. If the Creator isn't able to solve the issues then we'll happily issue a refund.
 
 ---
