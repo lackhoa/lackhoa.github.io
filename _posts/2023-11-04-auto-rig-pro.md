@@ -29,7 +29,8 @@ I don't know what kind of censorship is happening here, but I can't say I haven'
 
 Update 2: This is the schmuck response from the dev that made my blood boil
 
-```
+---
+
 > I contacted support and asked for help. They gave up immediately and told me to get a refund
 
 The Blender Market is the merchant platform. In case of problems, the creators of the products must offer support, which is my role here.
@@ -49,16 +50,19 @@ Even though I feel sincerely sorry for the inconvenience -it is always a pain he
 Sometimes, some users report issues to me, that only happen because they installed a specific unofficial version of Blender, or have a specific environment... this is why I have to be careful when modifying the code because something is not working right only for a single user.
 
 I will stop here the geeky tech debate. But the sudden offensive change in your attitude is questionable. Offering my work and time for free is not my thing, I have no proofs that you won't be using it later, so to me this is not a valid refund request that we have here.
-```
+
+---
 
 Update 3: Response from Blender Market, saying that I have to find another issue and report that to the dev before I'm allowed to get the refund
 
-```
+---
+
 I see that you've worked with Artell directly and he's provided you some assistance in getting the addon working for your particular set-up.
-
 Please let him know what additional problems you are having, so he has the opportunity to help. If you still would like a refund, please inform Artell directly in DMs that you're seeking a refund.
-
 Please allow them at least 72 hours to respond. If the Creator isn't able to solve the issues then we'll happily issue a refund.
+
+---
+
 ```
 
 {% endraw %}
