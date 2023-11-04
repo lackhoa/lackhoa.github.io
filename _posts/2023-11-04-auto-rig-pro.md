@@ -16,7 +16,7 @@ While looking through the code, I saw that the code quality was substandard (f.e
 
 Blender Market was like "I saw that you already talked to the developer and they assisted you in solving the problem". I said they were lying since I fixed the bug myself. They said "No one is lying", and repeated bunch of things, in the fashion of ChatGPT. The gist of it is that I can't get a refund because there was no fault in the product (even though there clearly *would* be, if I hadn't fixed it myself).
 
-So I asked the dev whether they could get a refund, since I no longer wanna use their addon. I got back a schmuck response saying how my solution was a "hack" (as if I was supposed to come up with a correct solution?) and that they would have no proof of me not using the product again so they can't give me the refund. The worst offender was that they accused me of "sounding pleased with myself", as if fixing your janky Python addon is worth boasting about.
+So I asked the dev whether they could get a refund, since I no longer wanna use their addon. I got back a schmuck response saying how my solution was a "hack" (as if I was supposed to come up with a correct solution?) and that they would have no proof of me not using the product again so they can't give me the refund. ~~The worst offender was that they accused me of "sounding pleased with myself", as if fixing your janky Python addon is worth boasting about.~~
 
 I got angry and told them <REDACTED>, just keep my money if you want it so much.
 
@@ -65,6 +65,7 @@ Please allow them at least 72 hours to respond. If the Creator isn't able to sol
 
 ---
 
-```
+Update 4: After rereading the message from Artell, I realized that it isn't as schmuck as I thought.
+However, I still think it's shitty to judge my tone and criticize the edit I made to *your program* when *I don't care* and just want a refund.
 
 {% endraw %}
