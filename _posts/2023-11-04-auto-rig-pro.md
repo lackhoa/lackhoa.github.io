@@ -27,4 +27,28 @@ It was removed after a few minutes.
 I DMed the mods to ask for the reason and they haven't replied to me yet (even though they were so quick to censor my post).
 I don't know what kind of censorship is happening here, but I can't say I haven't seen it.
 
+This is the schmuck response from the dev that got me angry
+
+```
+> I contacted support and asked for help. They gave up immediately and told me to get a refund
+
+The Blender Market is the merchant platform. In case of problems, the creators of the products must offer support, which is my role here.
+
+
+
+I saw that the code was of substandard quality; plus the unwillingness to help from the developer made me not wanna bet my pipeline on this product.
+
+This does not make sense.
+
+You first fix the problem by yourself with a quick hack, then say: It still doesn't looks exactly right, but works for me :)
+You sounded pleased.
+
+Then, you suddenly ask for a refund, invoking arrogant reasons of bad code quality, which is a subjective opinion, and even say that I was unwilling to help?
+Even though I feel sincerely sorry for the inconvenience -it is always a pain hearing my tool is not working right, I want my customers to be happy- this issue only happens on your Mac system. No other users reported that so far, and yes multiple users reported they were using a Mac too, you are not the first one. Consequently, it could likely be due to your graphic drivers, or an incompatibility with your environment.  The quick hack you made did the trick by chance, but this is not a real fix to me. There is no true reason to change 'TRI_FAN' to 'TRI_STRIP' as drawing method. The Blender drawing API does not provide much help about it, these are built-in GPU functions that cannot be modified when writing addons which is higher level code. This memory leak may even be fixed later with a new Blender update, or graphic driver update.
+
+Sometimes, some users report issues to me, that only happen because they installed a specific unofficial version of Blender, or have a specific environment... this is why I have to be careful when modifying the code because something is not working right only for a single user.
+
+I will stop here the geeky tech debate. But the sudden offensive change in your attitude is questionable. Offering my work and time for free is not my thing, I have no proofs that you won't be using it later, so to me this is not a valid refund request that we have here.
+```
+
 {% endraw %}
