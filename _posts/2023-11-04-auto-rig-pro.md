@@ -27,7 +27,7 @@ It was removed after a few minutes.
 I DMed the mods to ask for the reason and they haven't replied to me yet (even though they were so quick to censor my post).
 I don't know what kind of censorship is happening here, but I can't say I haven't seen it.
 
-Update 2: This is the schmuck response from the dev that made my blood boil
+Update 2: This is the schmuck response from the dev that made my blood boil (NOTE: This is *after* I asked for the refund. I had been completely polite and "diplomatic" up to this point.)
 
 ---
 
@@ -66,6 +66,7 @@ Please allow them at least 72 hours to respond. If the Creator isn't able to sol
 ---
 
 Update 4: After rereading the message from Artell, I realized that it isn't as schmuck as I thought.
+So I sent an apology for the REDACTED part.
 However, I still think it's shitty to judge my tone and criticize the edit I made to *your program* when *I don't care* and just want a refund.
 
 {% endraw %}
