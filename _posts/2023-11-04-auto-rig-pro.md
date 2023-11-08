@@ -1,16 +1,19 @@
 ---
-title: "Auto-Rig Pro is terrible, so is Blender Market (and r/blender too)"
+title: "Bad open source experience: Auto-Rig Pro is terrible, so is Blender Market (and r/blender too)"
 ---
 
 {% raw %}
 
-So I purchased the [Auto-Rig Pro](https://blendermarket.com/products/auto-rig-pro) addon for $40 just to try it out, according to a recommendations.
+NOTE: Quoted text aren't verbatim, unless said otherwise.
 
-Then I tried the Smart feature, it crashes my computer more often than not.
+I got into CG animation recently to make a movie. I wanted a solution to quickly rig characters, since I anticipate having many humanoid characters in the movie.
 
-I contacted the dev about it, they gave up and said there's no way to fix this problem, and asked if I would like a refund. Didn't even ask me for a screenshot, or a more precise description of the problem.
+So I purchased the [Auto-Rig Pro](https://blendermarket.com/products/auto-rig-pro) addon (ARP) for $40 just to try it out, according to a recommendation from reddit.
+Then I installed it and tried the advertised Smart Rig feature, it crashes my Blender more often than not.
 
-So just for education, I looked at why it hung and found that it was a memory leak. I isolated the problem down to some specific rendering method and fixed it. Anyway, the technical details doesn't matter. Point being, the bug was quite easily identified and fixed.
+I contacted the ARP dev (Artell) about it, they gave up and said there's no way to fix this problem, and asked if I would like a refund. Didn't even ask me for a screenshot, or a more precise description of the problem.
+
+So just for education, I looked at why it hung and found that it was a memory leak. I isolated the problem down to some specific rendering method and found a way to work around it. Anyway, the technical details doesn't matter. Point being, the bug was quite easily identified and fixed.
 
 While looking through the code, I saw that the code quality was substandard (f.ex in the rendering code, they loop through the vertices, then do a *string search* in the vertex name just to find out what color to draw it in). So I issued a refund request to Blender Market, saying that since the code is bad, and whenever I encounter a problem in the future the developer wouldn't be willing to help me, I don't wanna risk using this tool in my pipeline.
 
@@ -27,7 +30,7 @@ It was removed after a few minutes.
 I DMed the mods to ask for the reason and they haven't replied to me yet (even though they were so quick to censor my post).
 I don't know what kind of censorship is happening here, but I can't say I haven't seen it.
 
-Update 2: This is the schmuck response from the dev that made my blood boil (NOTE: This is *after* I asked for the refund. I had been completely polite and "diplomatic" up to this point.)
+Update 2: This is the verbatim schmuck response from the dev that made my blood boil (NOTE: This is *after* I asked for the refund. I had been completely polite and "diplomatic" up to this point.)
 
 ---
 
@@ -53,7 +56,7 @@ I will stop here the geeky tech debate. But the sudden offensive change in your 
 
 ---
 
-Update 3: Response from Blender Market, saying that I have to find another issue and report that to the dev before I'm allowed to get the refund
+Update 3: Verbatim response from Blender Market, saying that I have to find another issue and report that to the dev before I'm allowed to get the refund
 
 ---
 
@@ -65,7 +68,7 @@ Please allow them at least 72 hours to respond. If the Creator isn't able to sol
 
 ---
 
-Update 4: After rereading the message from Artell, I realized that it isn't as schmuck as I thought.
+Update 4: After rereading the message from Artell, I realized that it wasn't as schmuck as I thought (I thought they were saying I was "pleased with myself" for fixing the bug).
 So I sent an apology for the REDACTED part.
 However, I still think it's shitty to judge my tone and criticize the edit I made to *your program* when *I don't care* and just want a refund.
 
