@@ -1,5 +1,5 @@
 ---
-title: "Bad open source experience: Auto-Rig Pro is terrible, so is Blender Market (and r/blender too)"
+title: "Bad open source experience: Auto-Rig Pro dev is terrible, so is Blender Market (and r/blender too)"
 ---
 
 {% raw %}
