@@ -13,7 +13,7 @@ Then I installed it and tried the advertised Smart Rig feature, it crashes my Bl
 
 I contacted the ARP dev (Artell) about it, they gave up and said there's no way to fix this problem, and asked if I would like a refund. Didn't even ask me for a screenshot, or a more precise description of the problem.
 
-So just for education, I looked at why it hung and found that it was a memory leak. I isolated the problem down to some specific rendering method and found a way to work around it. Anyway, the technical details doesn't matter. Point being, the bug was quite easily identified and fixed.
+So just for education, I looked at why it hung and found that it was a memory leak. I isolated the problem down to some specific rendering method and found a way to work around it. Anyway, the technical details doesn't matter. Point being, the bug was quite easily identified.
 
 While looking through the code, I saw that the code quality was substandard (f.ex in the rendering code, they loop through the vertices, then do a *string search* in the vertex name just to find out what color to draw it in). So I issued a refund request to Blender Market, saying that since the code is bad, and whenever I encounter a problem in the future the developer wouldn't be willing to help me, I don't wanna risk using this tool in my pipeline.
 
@@ -70,6 +70,8 @@ Please allow them at least 72 hours to respond. If the Creator isn't able to sol
 
 Update 4: After rereading the message from Artell, I realized that it wasn't as schmuck as I thought (I thought they were saying I was "pleased with myself" for fixing the bug).
 So I sent an apology for the REDACTED part.
-However, I still think it's shitty to judge my tone and criticize the edit I made to *your program* when *I don't care* and just want a refund.
+However, I still think it's rude to judge my tone and criticize the edit I made to *your program* when *I don't care* and just want a refund.
+
+Update 5: Just to be clear, I don't claim to have any proper "fix" for the problem. I just found an edit to the code that for some reason didn't trigger the memory leak.
 
 {% endraw %}
