@@ -15,13 +15,15 @@ I contacted the ARP dev (Artell) about it, they gave up and said there's no way 
 
 So just for education, I looked at why it hung and found that it was a memory leak. I isolated the problem down to some specific rendering method and found a way to work around it. Anyway, the technical details doesn't matter. Point being, the bug was quite easily identified.
 
-While looking through the code, I saw that the code quality was substandard (f.ex in the rendering code, they loop through the vertices, then do a *string search* in the vertex name just to find out what color to draw it in). So I issued a refund request to Blender Market, saying that since the code is bad, and whenever I encounter a problem in the future the developer wouldn't be willing to help me, I don't wanna risk using this tool in my pipeline.
+While looking through the code, I saw that the code quality was substandard. For example in the rendering code, they loop through the vertices, then do a *string search* in the vertex name just to find out what color to draw it in. They also do a bunch of work in a loop that could easily be hoisted out. This lengthens the time it took to narrow down the problematic piece of code, especially in a performance-related problem such as this.
 
-Blender Market was like "I saw that you already talked to the developer and they assisted you in solving the problem". I said they were lying since I fixed the bug myself. They said "No one is lying", and repeated bunch of things, in the fashion of ChatGPT. The gist of it is that I can't get a refund because there was no fault in the product (even though there clearly *would* be, if I hadn't fixed it myself).
+So I issued a refund request to Blender Market, saying that since the code is bad, and whenever I encounter a problem in the future the developer wouldn't be willing to help me, I don't wanna risk using this tool in my pipeline.
+
+Blender Market was like "I saw that you already talked to the developer and they assisted you in solving the problem". I said they were lying since I fixed the bug myself. They said "No one is lying, truth is the bedrock of our conduct blah blah blah", repeated bunch of things, in the fashion of ChatGPT. The gist of it is that I can't get a refund because there was no fault in the product (even though there clearly *would* be, if I hadn't fixed it myself).
 
 So I asked the dev whether they could get a refund, since I no longer wanna use their addon. I got back a schmuck response saying how my solution was a "hack" (as if I was supposed to come up with a correct solution?) and that they would have no proof of me not using the product again so they can't give me the refund. ~~The worst offender was that they accused me of "sounding pleased with myself", as if fixing your janky Python addon is worth boasting about.~~
 
-I got angry and told them <REDACTED>, just keep my money if you want it so much.
+I got angry and told them (REDACTED), just keep my money if you want it so much.
 
 Anyway, I just wanna spread the word about this. Don't pay these people, folks!
 
@@ -73,5 +75,12 @@ So I sent an apology for the REDACTED part.
 However, I still think it's rude to judge my tone and criticize the edit I made to *your program* when *I don't care* and just want a refund.
 
 Update 5: Just to be clear, I don't claim to have any proper "fix" for the problem. I just found an edit to the code that for some reason didn't trigger the memory leak.
+
+Update 6: I probably shouldn't have told the Blender Marker person that they were lying about me getting help from Artell.
+But again, what were I *supposed* to say?
+It's like when you hear someone saying that the sky is green.
+
+I was mad that they *ignored* what I said about me debugging the issue myself.
+I feel like you aren't supposed to ignore the opinion of the person that actually did the debugging, and come to your own conclusion about *who assisted who*?
 
 {% endraw %}
