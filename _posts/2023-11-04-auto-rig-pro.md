@@ -75,6 +75,9 @@ So I sent an apology for the REDACTED part.
 However, I still think it's rude to judge my tone and criticize the edit I made to *your program* when *I don't care* and just want a refund.
 
 Update 5: Just to be clear, I don't claim to have any proper "fix" for the problem. I just found an edit to the code that for some reason didn't trigger the memory leak.
+The funny thing is that the dev wanted to have it both way: they want to claim that the problem was fixed, so I don't get the refund.
+But they also claim that I didn't *really* fix the problem, so they're justified in not putting in the effort to fix it properly (if they even can).
+It's banana cake.
 
 Update 6: I probably shouldn't have told the Blender Marker person that they were lying about me getting help from Artell.
 But again, what were I *supposed* to say?
