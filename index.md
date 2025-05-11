@@ -8,6 +8,18 @@ This place contains some of my projects and my blog posts.
 Personal Projects
 =================
 
+The Movie Project
+------------------------------------
+
+This is the realist project I've ever attempted.
+The goal is to just make a animated movie,
+which involves making a 3D modeler,
+editor, and whatever else it takes.
+
+This time, we have a [video series](https://www.youtube.com/playlist?list=PLY1DPYcN0cerZJHNUGYHlAjX1UCGa5i8k).
+
+It's still ongoing, probably forever...
+
 Rea: A theorem prover written in C++
 ------------------------------------
 
