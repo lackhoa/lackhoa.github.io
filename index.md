@@ -12,12 +12,14 @@ Personal Projects
 The Movie Project
 ------------------------------------
 
-This is the realist project I've ever attempted.
+This is the coolest project I've ever attempted.
 The goal is to just make a animated movie,
 which involves making a 3D modeler,
 editor, and whatever else it takes.
 
 This time, we have a [video series](https://www.youtube.com/playlist?list=PLY1DPYcN0cerZJHNUGYHlAjX1UCGa5i8k).
+
+[Code repo](https://github.com/lackhoa/4cc/tree/kv/ad-hoc-changes)
 
 It's still ongoing, probably forever...
 
