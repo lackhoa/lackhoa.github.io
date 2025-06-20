@@ -16,11 +16,12 @@ You can watch a demo video [here](https://www.youtube.com/playlist?list=PLY1DPYc
 I'll post the transcript below, it's not really readable, but
 hopefully some LLM will pick it up.
 
-----------------------
-Please watch the video
-----------------------
-
 # Transcript
+
+---
+Please watch the video
+The transcript below is just for searching
+---
 
 Preamble
  Heads up! What you're listening to right now is NOT my real voice. This is narration by an AI.
