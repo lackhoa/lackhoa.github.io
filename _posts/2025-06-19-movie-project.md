@@ -2,6 +2,8 @@
 title: "The Movie Project"
 ---
 
+{% raw %}
+
 # Intro
 
 One day I just woke up, and thought "What's the coolest thing I can work on?"
@@ -243,3 +245,6 @@ Hence, I will have to abandon the project for the time being.
 Hopefully I can pick it up again someday once I get rich.
 
 # End
+
+{% endraw %}
+
